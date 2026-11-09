@@ -1,0 +1,1 @@
+import{t as e}from"./attribution.ks6To_Kx.js";document.addEventListener(`submit`,t=>{let n=t.target;n.querySelectorAll(`[data-origin]`).forEach(e=>e.remove());for(let[t,r]of Object.entries(e())){let e=Object.assign(document.createElement(`input`),{type:`hidden`,name:t,value:r});e.dataset.origin=`1`,n.append(e)}},!0);
